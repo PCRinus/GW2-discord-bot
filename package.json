@@ -1,0 +1,28 @@
+{
+  "name": "gw2-discord-api",
+  "version": "1.0.0",
+  "description": "GW2 bot for Discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": ""
+  },
+  "keywords": [
+    "discord",
+    "gw2",
+    "guild-wars-2",
+    "discord.js",
+    "node.js",
+    "discord-api"
+  ],
+  "author": "Mircea Casapu",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
